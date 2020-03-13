@@ -26,6 +26,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "",
+    "githubUrl": "https://github.com/BumbleB2na/react-native-expo-app"
   }
 }
